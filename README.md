@@ -11,7 +11,7 @@
     <header>
         <div class="personal-info">
             <div class="card">
-                <p class="name">Matheus Rodrigues Araujo Santos</p>
+                <h1><p class="name">Matheus Rodrigues Araujo Santos</p></h1>
                 <p>Brasileiro, Solteiro, 19 Anos</p>
                 <p>R. Doutor Leão de Araújo Novaes, São Paulo – 04854-050</p>
                 <p>E-mail: mathrodrigues.araujo@gmail.com</p>
