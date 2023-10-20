@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="/README.css">
     <!-- Inclua a folha de estilo do Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/css/all.min.css" integrity="sha384-pzjwDFF3mFDOs5M+Of+Exm4Ck5wOWv+PgekcFVn2h57w2vaYav82T6vqz/FfR0XXM" crossorigin="anonymous">
-    <title>Matheus Rodrigues Araujo Santos</title>
 </head>
 <body>
     <header>
