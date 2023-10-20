@@ -22,9 +22,6 @@
             <a class="btn linkedin" href="https://www.linkedin.com/in/matheus-rodrigues-754600222/?originalSubdomain=br">
                 <i class="fab fa-linkedin"></i> LinkedIn
             </a>
-            <a class="btn github" href="https://github.com/matheusrasantos/Night">
-                <i class="fab fa-github"></i> GitHub
-            </a>
         </div>
     </header>
     <main>
