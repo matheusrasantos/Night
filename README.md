@@ -61,8 +61,8 @@
                 <li>Organização</li>
             </ul>
         </section>
-    </main>
-    <style>
+</main>
+<style>
         
 body {
     font-family: Arial, sans-serif;
