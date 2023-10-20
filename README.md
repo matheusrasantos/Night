@@ -19,7 +19,6 @@
                 <p>Telefone: (11) 94055 – 6783</p>
             </div>
         </div>
-        
         <div class="buttons">
             <a class="btn linkedin" href="https://www.linkedin.com/in/matheus-rodrigues-754600222/?originalSubdomain=br">
                 <i class="fab fa-linkedin"></i> LinkedIn
@@ -67,7 +66,6 @@
             </ul>
         </section>
     </main>
-
     <style>
         
 body {
@@ -194,10 +192,6 @@ ul, li {
     font-size: 1.5rem;
     font-weight: bold;
 }
-
-
-
-
     </style>
     
 </body>
